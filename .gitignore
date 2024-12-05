@@ -1,3 +1,4 @@
 node_modules
 src/.env
 tsconfig.json
+src/config/keys.ts
